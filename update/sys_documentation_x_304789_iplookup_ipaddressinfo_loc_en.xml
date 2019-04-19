@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="loc" label="Loc" language="en" table="x_304789_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>loc</element>
+            <help/>
+            <hint/>
+            <label>Loc</label>
+            <language>en</language>
+            <name>x_304789_iplookup_ipaddressinfo</name>
+            <plural>Locs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-19 22:39:54</sys_created_on>
+            <sys_id>b67830e3dbf03300c143fbef299619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loc</sys_name>
+            <sys_package display_value="IPLookup" source="x_304789_iplookup">ba1a1537dbd03300c143fbef29961922</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">ba1a1537dbd03300c143fbef29961922</sys_scope>
+            <sys_update_name>sys_documentation_x_304789_iplookup_ipaddressinfo_loc_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-19 22:39:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
